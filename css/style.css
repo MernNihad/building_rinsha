@@ -9735,13 +9735,14 @@ h6 {
   margin-top: 50px;
 }
 .footer{
-  margin-top: 20px;
+  margin: 30px;
   background-color: green;
   padding: 10px;
   color: white;
   text-align: center;
   width: 90%;
-  border-radius: 4rem;
+  border-radius: 6px;
+
   font-size: 20px;
 }
 .ttt{
